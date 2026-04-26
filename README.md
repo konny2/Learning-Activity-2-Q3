@@ -2,7 +2,7 @@ PROJECT Q3 – A/B TESTING: IMPACT OF DISCOUNTS ON CUSTOMER SPENDING
 ===============================================================
 Course: CS 4/5630 – Python for Computational and Data Sciences
 Student: Kporxah Kennedy John
-Institution: Bowling Green State University
+
 
 ===============================================================
 PROJECT OVERVIEW
